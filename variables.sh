@@ -1,6 +1,7 @@
 #!/bin/bash
 
-echo "hello"
+echo $0 "is the script"
+#echo "hello"
 name="Kalhara"
 age=24
 NOW=$(date '+%F_%H:%M:%S')
